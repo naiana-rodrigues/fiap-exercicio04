@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+opencv-python-headless
+ultralytics
+mediapipe
+librosa
+soundfile
+wfdb
+azure-cognitiveservices-speech
+azure-ai-textanalytics
+python-dotenv
+requests
+beautifulsoup4
